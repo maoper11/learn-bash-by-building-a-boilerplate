@@ -179,3 +179,5 @@ cd images/
 ls --color=auto
 cd ..
 ls --color=auto
+rm CodeRoda.svg
+rm background.jpg
