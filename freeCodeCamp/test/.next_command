@@ -174,3 +174,4 @@ del CodeRoda.svg
 mkd images
 mkdir images
 ls --color=auto
+cp background.jpg images/
