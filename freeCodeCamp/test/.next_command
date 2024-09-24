@@ -123,3 +123,5 @@ ks
 ls --color=auto
 pwd
 more README.md
+LS
+ls --color=auto
