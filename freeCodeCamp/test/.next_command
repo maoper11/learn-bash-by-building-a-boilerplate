@@ -192,3 +192,4 @@ ls --color=auto
 rm header.png
 rom footer.jpeg
 rm footer.jpeg
+ls --color=auto
