@@ -182,3 +182,4 @@ ls --color=auto
 rm CodeRoda.svg
 rm background.jpg
 ls --color=auto
+cp header.png images/
