@@ -121,3 +121,5 @@ ls --color=auto -l
 cd has
 ks
 ls --color=auto
+pwd
+more README.md
