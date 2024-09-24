@@ -170,3 +170,6 @@ rmv CodeRoda.svg
 touch CodeRoad.svg
 touch freeCodeCamp.svg
 ls --color=auto
+del CodeRoda.svg
+mkd images
+mkdir images
