@@ -164,3 +164,7 @@ touch lato.font
 touch menlo.font
 ls --color=auto
 touch CodeAlly.svg
+touch CodeRoda.svg
+ls --color=auto
+rmv CodeRoda.svg
+touch CodeRoad.svg
