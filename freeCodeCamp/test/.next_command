@@ -173,3 +173,4 @@ ls --color=auto
 del CodeRoda.svg
 mkd images
 mkdir images
+ls --color=auto
